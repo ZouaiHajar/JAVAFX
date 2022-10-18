@@ -1,0 +1,8 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#pane{
+    -fx-background-image: url("file:///C:/Users/user/HI/JEUXMONSTR/photosJeu/backg.PNG");
+    -fx-background-repeat: stretch;   
+    
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
